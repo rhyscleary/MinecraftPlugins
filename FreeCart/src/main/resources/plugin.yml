@@ -1,0 +1,11 @@
+name: FreeCart
+author: RJCLive
+version: 1.0
+main: me.rjclive.freecart.Freecart
+description: A simple plugin to give players minecarts
+api-version: 1.19
+commands:
+  freecart:
+    description: Gives you a minecart
+    usage: /<command>
+    aliases: [cart, minecart]
